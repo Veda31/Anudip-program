@@ -1,0 +1,1 @@
+1.Splitting an array (First half and second half)
