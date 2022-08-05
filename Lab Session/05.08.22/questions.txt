@@ -1,0 +1,2 @@
+Veda : A class called Employee, which models an employee with an ID, name,salary and address.
+ Print all the details about particular employee in main  class
