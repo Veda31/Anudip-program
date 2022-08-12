@@ -1,0 +1,2 @@
+Using inheritance concept with milk as parent class display other two product's rate and
+ other essential details
