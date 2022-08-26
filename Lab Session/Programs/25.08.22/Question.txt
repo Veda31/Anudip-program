@@ -1,1 +1,0 @@
-Using Abstract class, Print a simple program.
